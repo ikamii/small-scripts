@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Install Docker on Ubuntu
-
 sudo apt update
 sudo apt install ca-certificates curl gnupg lsb-release
 
