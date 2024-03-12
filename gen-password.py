@@ -24,3 +24,5 @@ if __name__ == "__main__":
 
     password = generate_password(password_length)
     print(password)
+
+
